@@ -1,0 +1,12 @@
+C:\Users\Vinayak\source\repos\app-msi\bin\Debug\netcoreapp3.1\app-msi.exe
+C:\Users\Vinayak\source\repos\app-msi\bin\Debug\netcoreapp3.1\app-msi.deps.json
+C:\Users\Vinayak\source\repos\app-msi\bin\Debug\netcoreapp3.1\app-msi.runtimeconfig.json
+C:\Users\Vinayak\source\repos\app-msi\bin\Debug\netcoreapp3.1\app-msi.runtimeconfig.dev.json
+C:\Users\Vinayak\source\repos\app-msi\bin\Debug\netcoreapp3.1\app-msi.dll
+C:\Users\Vinayak\source\repos\app-msi\bin\Debug\netcoreapp3.1\app-msi.pdb
+C:\Users\Vinayak\source\repos\app-msi\obj\Debug\netcoreapp3.1\app-msi.csproj.CoreCompileInputs.cache
+C:\Users\Vinayak\source\repos\app-msi\obj\Debug\netcoreapp3.1\app-msi.AssemblyInfoInputs.cache
+C:\Users\Vinayak\source\repos\app-msi\obj\Debug\netcoreapp3.1\app-msi.AssemblyInfo.cs
+C:\Users\Vinayak\source\repos\app-msi\obj\Debug\netcoreapp3.1\app-msi.dll
+C:\Users\Vinayak\source\repos\app-msi\obj\Debug\netcoreapp3.1\app-msi.pdb
+C:\Users\Vinayak\source\repos\app-msi\obj\Debug\netcoreapp3.1\app-msi.genruntimeconfig.cache
